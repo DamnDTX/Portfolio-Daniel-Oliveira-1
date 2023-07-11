@@ -82,8 +82,8 @@ gap: 40px;}
 }
  
 .eu{
-    height: 40%;
-    width: 40%;
+    height: 50%;
+    width: 50%;
     border-style: solid;
     border-color: black;
     border-radius: 50%;
@@ -163,8 +163,7 @@ gap: 40px;}
 }   
 
 @media (max-width:800px) {
-    .principal {
+    .principal__conteudo {
         flex-direction: column-reverse;
     }
-    .eu{border-radius: 10%;}
 }
