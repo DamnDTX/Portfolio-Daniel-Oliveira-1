@@ -53,7 +53,7 @@ gap: 40px;}
 
 
 .principal__conteudo{
-    width: 50%;
+    width: 615px;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -82,7 +82,7 @@ gap: 40px;}
 }
  
 .eu{
-    height: 50%;
+    height: 300px;
     width: 50%;
     border-style: solid;
     border-color: black;
