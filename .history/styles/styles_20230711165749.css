@@ -164,13 +164,8 @@ gap: 40px;}
 
 @media (max-width:800px) {
     .cabecalho {
-        padding: 10%;
+        padding: 6%;
     }
-
-    .cabecalho__menu{
-        justify-content: center;
-    }
-
     .principal {
         flex-direction: column-reverse;
     }
@@ -178,4 +173,5 @@ gap: 40px;}
         border-radius: 10%;
     }
   
+    
 }

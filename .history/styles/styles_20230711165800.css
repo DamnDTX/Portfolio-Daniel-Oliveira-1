@@ -166,11 +166,6 @@ gap: 40px;}
     .cabecalho {
         padding: 10%;
     }
-
-    .cabecalho__menu{
-        justify-content: center;
-    }
-
     .principal {
         flex-direction: column-reverse;
     }
@@ -178,4 +173,5 @@ gap: 40px;}
         border-radius: 10%;
     }
   
+    
 }
