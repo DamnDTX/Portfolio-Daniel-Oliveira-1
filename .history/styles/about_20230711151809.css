@@ -41,8 +41,6 @@ gap: 80px;}
     line-height: normal;
     color: #B6EEA7;
     text-decoration: none;
-    width: 10%; 
-    height: 10%;
 }
 
 .principal{display: flex;
@@ -55,7 +53,6 @@ gap: 40px;}
 
 .principal__conteudo{
     width: 50%;
-    height: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -84,8 +81,8 @@ gap: 40px;}
 }
  
 .daniel{
-    height: 45%;
-    width: 45%;
+    height: 35%;
+    width: 35%;
     border-radius: 10%;
     margin-bottom: 200px;
 }   
