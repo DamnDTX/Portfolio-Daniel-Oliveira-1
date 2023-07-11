@@ -109,9 +109,8 @@ gap: 40px;}
         .principal__links__social:hover{
             background-color: var(--cor-rover);
         }
-       
         .cabecalho__menu__link:hover{
-            background-color: #2675a6;
+            background-color: #3843E0;
             color: white;
         }
 

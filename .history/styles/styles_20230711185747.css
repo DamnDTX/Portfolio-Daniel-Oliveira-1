@@ -110,7 +110,8 @@ gap: 40px;}
             background-color: var(--cor-rover);
         }
        
-        .cabecalho__menu__link:hover{
+        .cabecalho__menu__link:hover
+        {
             background-color: #2675a6;
             color: white;
         }
