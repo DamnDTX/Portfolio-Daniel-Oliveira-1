@@ -100,7 +100,7 @@ padding: 2% 0 0 15%;
     border-radius: 50%;
     align-content: right;}   
 
- .principal__links  {
+ .principal__links{
         justify-content: space-between;
         flex-direction:column;
         align-items: center;
@@ -115,9 +115,11 @@ padding: 2% 0 0 15%;
             background-color: var(--cor-rover);
         }
        
-       .cabecalho__menu__link:hover{
+        .home:hover
+        {
             background-color: #2675a6;
-       }
+            color: white;
+        }
  }
     .principal__links__subtitulo{
         font-family: var(--fonte-textos);
@@ -166,6 +168,7 @@ padding: 2% 0 0 15%;
         color: var(--cor-dos-textos);
     }
 
+    /* TÉRMINO DAS ESTILIZAÇÕES DA PAGINA "index"*/
 
 .daniel{
     height: 45%;
@@ -176,7 +179,8 @@ padding: 2% 0 0 15%;
     border-radius: 10% ;
 }   
 
-@media (max-width:800px) {
+@media (max-width:800px) 
+{
     .cabecalho {
         padding: 10%;
     }
